@@ -1,2 +1,2 @@
 # compodoc.github.io
-compodoc
+compodoc project with angular
